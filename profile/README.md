@@ -40,4 +40,4 @@ Stormborn Software was created with passion by:
 ## Get in Touch
 
 Have a project in mind? Let’s make it a reality!  
-Contact us at [info@stormborn.com](mailto:info@stormborn.onmicrosoft.com) (Replace with your real email)  
+Contact us at [info@stormborn.com](mailto:info@stormborn.onmicrosoft.com) 
