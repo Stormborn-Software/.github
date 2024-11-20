@@ -40,16 +40,4 @@ Stormborn Software was created with passion by:
 ## Get in Touch
 
 Have a project in mind? Let’s make it a reality!  
-Contact us at [stormborn.software@example.com](mailto:stormborn.software@example.com) (Replace with your real email)  
-Follow us on [GitHub](https://github.com/Stormborn-Software) for updates and projects.
-
----
-
-### Join Us
-
-We’re open to collaboration and partnerships. If you’re a developer, designer, or just someone with a great idea, feel free to reach out!  
-
----
-
-Let’s build something amazing together. 🌐  
-**Stormborn Software** – Shaping the Web, One Website at a Time.  
+Contact us at [info@stormborn.com](mailto:info@stormborn.onmicrosoft.com) (Replace with your real email)  
